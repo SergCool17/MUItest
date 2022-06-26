@@ -8,7 +8,7 @@ const Search = (props) => {
       type="search"
       value={value}
       onChange={onChange}
-      label="Поиск"
+      label="Поиск "
       variant="standard"
       fullWidth
       sx={{ mb: "1.5rem" }}
